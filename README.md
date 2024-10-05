@@ -1,4 +1,4 @@
-```javascript
+```mermaid
 graph TD
     %% Main Topics
     A[Mechanically Intuitive Grappling] --> B1{FIRST FIGURE OUT}

@@ -1,3 +1,4 @@
+```javascript
 graph TD
     %% Main Topics
     A[Mechanically Intuitive Grappling] --> B1{FIRST FIGURE OUT}
@@ -118,3 +119,4 @@ graph TD
     
     %% Final Concepts
     A --> R1[The Enemy Gate is Down]
+```
